@@ -23,22 +23,21 @@
              <Button
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
-                 android:text="Map"
-                 android:id="@+id/btnMap"
+                 android:text="France"
+                 android:id="@+id/btnFrance"
                  android:layout_weight="1"/>
              <Button
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
-                 android:text="Satelite"
-                 android:id="@+id/btnSatelite"
+                 android:text="United States"
+                 android:id="@+id/btnUnited"
                  android:layout_weight="1"/>
              <Button
                  android:layout_width="wrap_content"
                  android:layout_height="wrap_content"
-                 android:text="Hybrid"
-                 android:id="@+id/btnHybrid"
+                 android:text="Australia"
+                 android:id="@+id/btnAustralia"
                  android:layout_weight="1"/>
-
 
          </LinearLayout>
          <fragment
